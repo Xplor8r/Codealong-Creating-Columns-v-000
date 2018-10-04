@@ -74,5 +74,6 @@ figcaption {
 /*layout*/
 
 .wrapper {
-  width: ;
+  width: 960 px;
+  margin: 0 auto;
 }
