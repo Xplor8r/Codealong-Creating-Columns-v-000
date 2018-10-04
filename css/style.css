@@ -99,6 +99,9 @@ figcaption {
   content: ".";
   display: block;
   clear: both;
+  visibility: hidden;
+  height: 0;
+  line-height: 0;
 }
 
 [class*="col-"] {
@@ -108,3 +111,5 @@ figcaption {
 .first {
   margin-left: 0%;
 }
+
+/*sections*/
